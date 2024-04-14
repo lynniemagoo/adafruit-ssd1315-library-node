@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "@lynniemagoo/adafruit-gfx-library": "^1.1.0"
-  },  
+  },
   "files": {
     "lib": "lib"
   },
